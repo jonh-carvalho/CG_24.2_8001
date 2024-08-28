@@ -1,23 +1,14 @@
-# MkDocs
 
-## Commands
+# Computação Gráfica
 
-*`mkdocs new [dir-name]` - Create a new project.
+**Código da Disciplina**: IBM0168/13186245-8001
 
-*`mkdocs serve` - Start the live-reloading docs server.
+## Sobre
 
-*`mkdocs build` - Build the documentation site.
+Disciplina que apresenta os Conceitos da Computação Gráfica.
 
-*`mkdocs -h` - Print help message and exit.
+## Ferramentas
 
-*`mkdocs deploy` - Deploy site builded on Github.
-
-##Project layout
-
-    mkdocs.yml    # The configuration file.
-
-    docs/
-
-    index.md  # The documentation homepage.
-
-    ...       # Other markdown pages, images and other files.
+**Linguagens**: Python, OpenGL, Blender e Javascript `<br>`
+**Tecnologias**: Visual Studio Code e Github `<br>`
+As APs e ACs deverão ser enviadas no github.
