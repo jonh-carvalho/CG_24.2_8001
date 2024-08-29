@@ -1,22 +1,49 @@
 # Aulas
 
-| Aula                         | Conteúdo                                                                  |
-| ---------------------------- | -------------------------------------------------------------------------- |
-| __01__ - 07/08/24    | -------------------------------------------------------------------------- |
-| __02__ - 14/08/24     | Introdução a Computação Gráfica                                       |
-| __03__ - 21/08/24     | -------------------------------------------------------------------------  |
-| __04__ - 28/08/24     | Introdução a Computação Visual                                         |
-| __05__ - 04/09/24     | -------------------------------------------------------------------------  |
-| __06__ - 11/09/24     | Bibliotecas Gráficas e Dispositivos<br />Espaço de Cores e Visão Humana |
-| __07__ - 18/09/24     | -------------------------------------------------------------------------  |
-| __08__ - 25/09/24     | AP1                                                                        |
-| __09__ - 02/10/24     | -------------------------------------------------------------------------- |
-| __09__ - 09/10/24     | Transformações Geométricas 2D e 3D                                      |
-| __09__ - 16/10/24     | -------------------------------------------------------------------------- |
-| __09__ - 23/10/24     | Transformações Geométricas 2D e 3D                                      |
-| __09__ - 30/10/24     | -------------------------------------------------------------------------- |
-| __09__ - 13/10/24     | -------------------------------------------------------------------------- |
-| __09__ - 20/10/24     | -------------------------------------------------------------------------- |
-| __10__ - 27/10/24     | -------------------------------------------------------------------------- |
+<details open="">
+    <summary >▶️ Aula 01 - 14/08/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
 
----
+<details>
+    <summary>▶️ Aula 02 - 28/08/2024 ↩</summary>
+    <h4>Introdução a Computação Visual</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 03 - 11/09/2024 ↩</summary>
+    <h4>Bibliotecas Gráficas</h4>
+    <h4>Dispositivos Espaço de Cores e Visão Humana</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 04 - 25/09/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 05 - 02/10/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 06 - 16/10/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 07 - 30/10/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 08 - 13/11/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
+<details>
+    <summary>▶️ Aula 09 - 27/11/2024 ↩</summary>
+    <h4>Introdução a Computação Gráfica</h4>
+    
+</details>
