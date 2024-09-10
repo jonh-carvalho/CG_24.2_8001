@@ -1,14 +1,17 @@
+# Welcome to MkDocs
 
-# Computação Gráfica
+For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-**Código da Disciplina**: IBM0168/13186245-8001
+## Commands
 
-## Sobre
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs -h` - Print help message and exit.
 
-Disciplina que apresenta os Conceitos da Computação Gráfica.
+## Project layout
 
-## Ferramentas
-
-**Linguagens**: Python, OpenGL, Blender e Javascript `<br>`
-**Tecnologias**: Visual Studio Code e Github `<br>`
-As APs e ACs deverão ser enviadas no github.
+    mkdocs.yml    # The configuration file.
+    docs/
+        index.md  # The documentation homepage.
+        ...       # Other markdown pages, images and other files.
