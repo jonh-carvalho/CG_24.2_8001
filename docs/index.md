@@ -1,4 +1,3 @@
-
 # Computação Gráfica
 
 **Código da Disciplina**: IBM0168/13186245-8001
