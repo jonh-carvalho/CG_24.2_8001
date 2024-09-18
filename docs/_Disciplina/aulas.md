@@ -5,8 +5,8 @@
 
 1. Aula 01 - 14/08/2024 | Introdução a Computação Gráfica |
 2. Aula 02 - 28/08/2024 | [Computação Visual](../docs/Intro_Computação_Visual.pdf)
-3. Aula 03 - 11/09/2024 | Bibliotecas Gráficas, Dispositivos Espaço de Cores e Visão Humana |
-4. Aula 04 - 25/09/2024 | Introdução a Computação Gráfica |
+3. Aula 03 - 11/09/2024 | ------------------------------ |
+4. Aula 04 - 18/09/2024 | [Imagens](../_Disciplina/docs/Imagens.pdf), Dispositivos Espaço de Cores e Visão Humana |
 5. Aula 05 - 02/10/2024 | AP1 |
 6. Aula 06 - 16/10/2024 | Introdução a Computação Gráfica |
 7. Aula 07 - 30/10/2024 | Introdução a Computação Gráfica |
