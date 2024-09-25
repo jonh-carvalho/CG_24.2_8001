@@ -2,7 +2,7 @@
 
 ## **Atividade:**
 
-Processamento de Imagens
+Processamento de Imagens (Python e Notebook)
 
 ### **Objetivo** :
 

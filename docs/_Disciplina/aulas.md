@@ -7,7 +7,7 @@
 2. Aula 02 - 28/08/2024 | [Computação Visual](../docs/Intro_Computação_Visual.pdf) e [Bibliotecas Gráficas](../_Disciplina/docs/Bibliotecas_Graficas.pdf)|
 3. Aula 03 - 11/09/2024 | Aula interrompida por imprevisto na internet do professor |
 4. Aula 04 - 18/09/2024 | Ausência dos alunos |
-5. Aula 05 - 25/09/2024 | [Imagens](../_Disciplina/docs/Imagens.pdf), Dispositivos Espaço de Cores e Visão Humana |
+5. Aula 05 - 25/09/2024 | [Imagens](../_Disciplina/docs/Imagens.pdf), [Dispositivos Espaço de Cores](../_Disciplina/docs/ImagensCG.pdf) e [Visão Humana](../_Disciplina/docs/ImagensM.pdf) |
 6. Aula 06 - 02/10/2024 | AP1 - Apresentação |
 7. Aula 07 - 16/10/2024 | Transformações Geométricas |
 8. Aula 08 - 30/10/2024 | Modelos de Iluminação |
