@@ -4,7 +4,7 @@
 
 ### **Objetivo** :
 
-Demonstrar as diferenças e principais características das área relacionadas a Computação Visual: Síntese de Imagens(Computação Gráfica), Processamento de Imangens, Visão Computacional(Artificial) e Visualização Computacional.
+Demonstrar as diferenças e principais características das áreas relacionadas a Computação Visual: Síntese de Imagens(Computação Gráfica), Processamento de Imagens, Visão Computacional(Artificial) e Visualização Computacional.
 
 ### **Considerações adicionais** :
 
