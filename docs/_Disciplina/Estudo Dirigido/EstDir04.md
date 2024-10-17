@@ -47,23 +47,26 @@ Dado o ponto \( P(2, 3) \), aplique um cisalhamento horizontal com \( k = 2 \).
 
 ### **Exercício 9: Composição de Transformações**
 Dado o ponto \( P(3, 2) \), aplique as seguintes transformações consecutivas:
-1. Uma translação com vetor \( (1, -1) \).
-2. Uma rotação de 90° no sentido anti-horário.
-3. Uma escala uniforme com fator 2.
+
+1\. Uma translação com vetor \( (1, -1) \).
+2\. Uma rotação de 90° no sentido anti-horário.
+3\. Uma escala uniforme com fator 2.
 
 - **Pergunta**: Qual é a nova posição do ponto \( P' \) após todas as transformações?
 
 ### **Exercício 10: Combinação de Transformações em uma Figura**
 Dado um retângulo com vértices \( A(1, 1), B(5, 1), C(5, 3), D(1, 3) \), aplique as seguintes transformações em sequência:
-1. Translação com vetor \( (-2, 3) \).
-2. Escala não uniforme com fatores \( 1.5 \) no eixo \(x\) e \(0.5\) no eixo \(y\).
-3. Reflexão em relação ao eixo \(y\).
+
+1\. Translação com vetor \( (-2, 3) \).
+2\. Escala não uniforme com fatores \( 1.5 \) no eixo \(x\) e \(0.5\) no eixo \(y\).
+3\. Reflexão em relação ao eixo \(y\).
 
 - **Pergunta**: Quais são as novas coordenadas dos vértices após as três transformações?
 
 ---
 
-### Instalação
+### Instalação e Instruções para o desenvolvimento
+
 Se você ainda não tiver o **Matplotlib** instalado, pode instalar com o seguinte comando:
 ```bash
 pip install matplotlib
