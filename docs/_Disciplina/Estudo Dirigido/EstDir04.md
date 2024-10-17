@@ -105,27 +105,27 @@ plot_shapes(square, transformed_square, "Translação de um Quadrado")
 
 ### Aplicação para Cada Exercício:
 
-1. **Exercício de Translação**:
+1\. **Exercício de Translação**:
    - Use a função de translação e aplique aos pontos do objeto.
    - Plotar o objeto original e o transformado.
 
-2. **Exercício de Escala (Uniforme e Não Uniforme)**:
+2\. **Exercício de Escala (Uniforme e Não Uniforme)**:
    - Escale as coordenadas dos vértices de acordo com o fator de escala.
    - Plotar o objeto antes e depois da transformação.
 
-3. **Exercício de Rotação**:
+3\. **Exercício de Rotação**:
    - Aplique uma rotação de acordo com a matriz de rotação.
    - Plotar a figura rotacionada em relação à original.
 
-4. **Exercício de Reflexão**:
+4\. **Exercício de Reflexão**:
    - Aplique a matriz de reflexão em relação ao eixo \(x\) ou \(y\).
    - Plotar o objeto antes e depois da reflexão.
 
-5. **Exercício de Cisalhamento**:
+5\. **Exercício de Cisalhamento**:
    - Aplique a matriz de cisalhamento aos vértices.
    - Plotar o objeto antes e depois da transformação.
 
-6. **Composição de Transformações**:
+6\. **Composição de Transformações**:
    - Aplique uma sequência de transformações (translação, rotação e escala) e observe como a figura muda.
    - Plotar cada passo da transformação para visualizar cada alteração.
 
@@ -166,5 +166,3 @@ plt.grid(True)
 plt.show()
 ```
 
-### Conclusão
-O **Matplotlib** é a ferramenta mais prática para visualizar os resultados dos exercícios de transformações geométricas. Ela permite criar gráficos claros e simples para cada etapa da transformação, o que facilita a compreensão das mudanças geométricas aplicadas.
