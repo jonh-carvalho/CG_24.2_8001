@@ -190,7 +190,8 @@
                 <li class="third-level"><a href="#exercicio-8-cisalhamento-horizontal">Exercício 8: Cisalhamento Horizontal</a></li>
                 <li class="third-level"><a href="#exercicio-9-composicao-de-transformacoes">Exercício 9: Composição de Transformações</a></li>
                 <li class="third-level"><a href="#exercicio-10-combinacao-de-transformacoes-em-uma-figura">Exercício 10: Combinação de Transformações em uma Figura</a></li>
-                <li class="third-level"><a href="#instalacao-e-instrucoes-para-o-desenvolvimento">Instalação e Instruções para o desenvolvimento</a></li>
+            <li class="second-level"><a href="#instalacao-e-instrucoes-para-o-desenvolvimento">Instalação e Instruções para o desenvolvimento</a></li>
+                
                 <li class="third-level"><a href="#estrutura-geral-para-plotar-transformacoes">Estrutura Geral para Plotar Transformações</a></li>
                 <li class="third-level"><a href="#exemplo-de-codigo-base-com-matplotlib">Exemplo de Código Base com Matplotlib</a></li>
                 <li class="third-level"><a href="#aplicacao-para-cada-exercicio">Aplicação para Cada Exercício:</a></li>
@@ -204,72 +205,72 @@
 <hr />
 <h2 id="atividade"><strong>Atividade:</strong></h2>
 <p>Para plotar os exercícios de transformações geométricas, a biblioteca <strong>Matplotlib</strong> é ideal, pois é uma das mais populares para visualização de dados e gráficos em Python. A <strong>Matplotlib</strong> é adequada para criar gráficos de 2D, como pontos, linhas e formas geométricas. Aqui estão os passos gerais e uma explicação de como usar essa biblioteca para plotar as transformações geométricas:</p>
-<h3 id="exercicio-1-translacao-simples"><strong>Exercício 1: Translação Simples</strong></h3>
+<h4 id="exercicio-1-translacao-simples"><strong>Exercício 1: Translação Simples</strong></h4>
 <p>Dado o ponto ( P(2, 3) ), aplique a translação com vetor ( (4, -2) ).</p>
 <ul>
 <li><strong>Perguntas</strong>: Qual é o novo ponto ( P' )? Quais coordenadas foram alteradas?</li>
 </ul>
-<h3 id="exercicio-2-escala-uniforme"><strong>Exercício 2: Escala Uniforme</strong></h3>
+<h4 id="exercicio-2-escala-uniforme"><strong>Exercício 2: Escala Uniforme</strong></h4>
 <p>Considere um triângulo com vértices ( A(1, 1), B(3, 1) ) e ( C(2, 4) ). Aplique uma escala uniforme de fator 2.</p>
 <ul>
 <li><strong>Perguntas</strong>: Quais são as novas coordenadas dos vértices após a transformação? O que acontece com o tamanho do triângulo?</li>
 </ul>
-<h3 id="exercicio-3-escala-nao-uniforme"><strong>Exercício 3: Escala Não Uniforme</strong></h3>
+<h4 id="exercicio-3-escala-nao-uniforme"><strong>Exercício 3: Escala Não Uniforme</strong></h4>
 <p>Aplique uma escala não uniforme no triângulo do Exercício 2, com fator de 2 no eixo (x) e fator de 0,5 no eixo (y).</p>
 <ul>
 <li><strong>Pergunta</strong>: Quais são as novas coordenadas dos vértices?</li>
 </ul>
-<h3 id="exercicio-4-rotacao-em-torno-da-origem"><strong>Exercício 4: Rotação em Torno da Origem</strong></h3>
+<h4 id="exercicio-4-rotacao-em-torno-da-origem"><strong>Exercício 4: Rotação em Torno da Origem</strong></h4>
 <p>Rotacione o ponto ( P(1, 0) ) em 90° no sentido anti-horário em torno da origem.</p>
 <ul>
 <li><strong>Pergunta</strong>: Qual é a nova posição do ponto ( P' ) após a rotação?</li>
 </ul>
-<h3 id="exercicio-5-rotacao-de-um-poligono"><strong>Exercício 5: Rotação de um Polígono</strong></h3>
+<h4 id="exercicio-5-rotacao-de-um-poligono"><strong>Exercício 5: Rotação de um Polígono</strong></h4>
 <p>Um quadrado tem vértices ( A(1, 1), B(1, 4), C(4, 4), D(4, 1) ). Aplique uma rotação de 45° no sentido horário.</p>
 <ul>
 <li><strong>Pergunta</strong>: Quais são as novas coordenadas dos vértices?</li>
 </ul>
-<h3 id="exercicio-6-reflexao-simples"><strong>Exercício 6: Reflexão Simples</strong></h3>
+<h4 id="exercicio-6-reflexao-simples"><strong>Exercício 6: Reflexão Simples</strong></h4>
 <p>Dado o ponto ( P(2, 5) ), aplique uma reflexão em relação ao eixo (y).</p>
 <ul>
 <li><strong>Pergunta</strong>: Qual é a nova posição do ponto ( P' )?</li>
 </ul>
-<h3 id="exercicio-7-reflexao-de-um-triangulo"><strong>Exercício 7: Reflexão de um Triângulo</strong></h3>
+<h4 id="exercicio-7-reflexao-de-um-triangulo"><strong>Exercício 7: Reflexão de um Triângulo</strong></h4>
 <p>Considere um triângulo com vértices ( A(2, 3), B(4, 3) ) e ( C(3, 5) ). Aplique uma reflexão em relação ao eixo (x).</p>
 <ul>
 <li><strong>Pergunta</strong>: Quais são as novas coordenadas dos vértices após a transformação?</li>
 </ul>
-<h3 id="exercicio-8-cisalhamento-horizontal"><strong>Exercício 8: Cisalhamento Horizontal</strong></h3>
+<h4 id="exercicio-8-cisalhamento-horizontal"><strong>Exercício 8: Cisalhamento Horizontal</strong></h4>
 <p>Dado o ponto ( P(2, 3) ), aplique um cisalhamento horizontal com ( k = 2 ).</p>
 <ul>
 <li><strong>Pergunta</strong>: Qual é a nova posição do ponto ( P' )?</li>
 </ul>
-<h3 id="exercicio-9-composicao-de-transformacoes"><strong>Exercício 9: Composição de Transformações</strong></h3>
+<h4 id="exercicio-9-composicao-de-transformacoes"><strong>Exercício 9: Composição de Transformações</strong></h4>
 <p>Dado o ponto ( P(3, 2) ), aplique as seguintes transformações consecutivas:</p>
-<p>1. Uma translação com vetor ( (1, -1) ).
-2. Uma rotação de 90° no sentido anti-horário.
-3. Uma escala uniforme com fator 2.</p>
+<p>1. Uma translação com vetor ( (1, -1) ).</p>
+<p>2. Uma rotação de 90° no sentido anti-horário.</p>
+<p>3. Uma escala uniforme com fator 2.</p>
 <ul>
 <li><strong>Pergunta</strong>: Qual é a nova posição do ponto ( P' ) após todas as transformações?</li>
 </ul>
-<h3 id="exercicio-10-combinacao-de-transformacoes-em-uma-figura"><strong>Exercício 10: Combinação de Transformações em uma Figura</strong></h3>
+<h4 id="exercicio-10-combinacao-de-transformacoes-em-uma-figura"><strong>Exercício 10: Combinação de Transformações em uma Figura</strong></h4>
 <p>Dado um retângulo com vértices ( A(1, 1), B(5, 1), C(5, 3), D(1, 3) ), aplique as seguintes transformações em sequência:</p>
-<p>1. Translação com vetor ( (-2, 3) ).
-2. Escala não uniforme com fatores ( 1.5 ) no eixo (x) e (0.5) no eixo (y).
-3. Reflexão em relação ao eixo (y).</p>
+<p>1. Translação com vetor ( (-2, 3) ).</p>
+<p>2. Escala não uniforme com fatores ( 1.5 ) no eixo (x) e (0.5) no eixo (y).</p>
+<p>3. Reflexão em relação ao eixo (y).</p>
 <ul>
 <li><strong>Pergunta</strong>: Quais são as novas coordenadas dos vértices após as três transformações?</li>
 </ul>
 <hr />
-<h3 id="instalacao-e-instrucoes-para-o-desenvolvimento">Instalação e Instruções para o desenvolvimento</h3>
+<h2 id="instalacao-e-instrucoes-para-o-desenvolvimento"><strong>Instalação e Instruções para o desenvolvimento</strong></h2>
 <p>Se você ainda não tiver o <strong>Matplotlib</strong> instalado, pode instalar com o seguinte comando:</p>
 <pre><code class="language-bash">pip install matplotlib
 </code></pre>
 <h3 id="estrutura-geral-para-plotar-transformacoes">Estrutura Geral para Plotar Transformações</h3>
-<p>Para cada exercício, o processo de plotagem envolve:
-1. Definir os pontos de uma forma geométrica (triângulo, quadrado, etc.).
-2. Aplicar a transformação (translação, rotação, escala, etc.).
-3. Plotar o objeto antes e depois da transformação.</p>
+<p>Para cada exercício, o processo de plotagem envolve:</p>
+<p>1. Definir os pontos de uma forma geométrica (triângulo, quadrado, etc.).</p>
+<p>2. Aplicar a transformação (translação, rotação, escala, etc.).</p>
+<p>3. Plotar o objeto antes e depois da transformação.</p>
 <h3 id="exemplo-de-codigo-base-com-matplotlib">Exemplo de Código Base com Matplotlib</h3>
 <p>Aqui está uma estrutura de código que pode ser adaptada para cada um dos exercícios:</p>
 <pre><code class="language-python">import numpy as np
