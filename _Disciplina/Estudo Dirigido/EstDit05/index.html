@@ -11,7 +11,7 @@
     <link rel="shortcut icon" href="../../../img/favicon.ico">
 
     
-    <title>Estudo Dirigido 02 - CG</title>
+    <title>Estudo Dirigido 05 - CG</title>
     
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -121,8 +121,8 @@
 
         
             
-<li class="active">
-    <a href="./">Estudo Dirigido 02</a>
+<li >
+    <a href="../EstDir02/">Estudo Dirigido 02</a>
 </li>
 
         
@@ -139,8 +139,8 @@
 
         
             
-<li >
-    <a href="../EstDit05/">Estudo Dirigido 05</a>
+<li class="active">
+    <a href="./">Estudo Dirigido 05</a>
 </li>
 
         
@@ -161,17 +161,17 @@
                         </a>
                     </li>
                     <li >
-                        <a rel="prev" href="../EstDir01/">
+                        <a rel="prev" href="../EstDir04/">
                             <i class="fas fa-arrow-left"></i> Previous
                         </a>
                     </li>
-                    <li >
-                        <a rel="next" href="../EstDir03/">
+                    <li class="disabled">
+                        <a rel="next" >
                             Next <i class="fas fa-arrow-right"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://github.com/jonh-carvalho/CG_24.2_8001/edit/master/docs/_Disciplina/Estudo Dirigido/EstDir02.md"><i class="fab fa-github"></i> Edit on GitHub</a>
+                        <a href="https://github.com/jonh-carvalho/CG_24.2_8001/edit/master/docs/_Disciplina/Estudo Dirigido/EstDit05.md"><i class="fab fa-github"></i> Edit on GitHub</a>
                     </li>
             </ul>
         </div>
@@ -183,28 +183,80 @@
         
         <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="first-level active"><a href="#estudo-dirigido-02">Estudo Dirigido 02</a></li>
-            <li class="second-level"><a href="#atividade">Atividade:</a></li>
+        <li class="first-level active"><a href="#estudo-dirigido-05">Estudo Dirigido 05</a></li>
+            <li class="second-level"><a href="#atividade-iluminacao-e-animacao">Atividade: Iluminação e Animação</a></li>
                 
-                <li class="third-level"><a href="#objetivo">Objetivo :</a></li>
+                <li class="third-level"><a href="#cena-noturna-de-estudo">Cena Noturna de Estudo</a></li>
+            <li class="second-level"><a href="#animacao">Animação</a></li>
+                
     </ul>
 </div></div>
         <div class="col-md-9" role="main">
 
-<h1 id="estudo-dirigido-02"><strong>Estudo Dirigido 02</strong></h1>
-<h2 id="atividade"><strong>Atividade:</strong></h2>
-<p>Processamento de Imagens (Python e Notebook)</p>
-<h3 id="objetivo"><strong>Objetivo</strong> :</h3>
-<p>Aplicar os conceitos de processamento de Imagens.</p>
-<p><strong>1. Redimensionamento e Cropping</strong> :</p>
-<p>Carregue uma imagem de sua escolha, redimensione para diferentes tamanhos e faça um recorte (cropping) na área central da imagem. Salve o resultado.</p>
-<p><strong>Desafio</strong>: Redimensione mantendo a proporção original da imagem.</p>
-<p><strong>2. Convesão de Cores</strong></p>
-<p>Carregue uma imagem colorida e converta-a para escala de cinza, além de aplicar um filtro sepia.</p>
-<p><strong>Dica:</strong> Sepia pode ser simulado ajustando os valores RGB.</p>
-<p><strong>3. Imagem Vetorial e Animação</strong></p>
-<p>Crie uma imagem vetorial com o formato SVG onde um círculo animado se move horizontalmente de um lado ao outro da tela repetidamente.</p>
-<p><strong>4. Image Vetorial animada.</strong></p></div>
+<h1 id="estudo-dirigido-05"><strong>Estudo Dirigido 05</strong></h1>
+<hr />
+<h2 id="atividade-iluminacao-e-animacao"><strong>Atividade: Iluminação e Animação</strong></h2>
+<hr />
+<h3 id="cena-noturna-de-estudo"><strong>Cena Noturna de Estudo</strong></h3>
+<h4 id="objetivo"><strong>Objetivo</strong></h4>
+<p>Criar um cenário noturno em que um abajur ilumina uma mesa de estudo. O objetivo é aplicar o modelo de iluminação para destacar luzes difusas, luzes especulares, sombras e reflexões, simulando uma cena realista em um ambiente de baixa luz.</p>
+<h4 id="instrucoes"><strong>Instruções</strong></h4>
+<ol>
+<li>
+<p><strong>Configuração da Cena e Modelagem Básica</strong>:</p>
+</li>
+<li>
+<p><strong>Plano de Mesa</strong>: Adicione um plano de 10x5 unidades para representar a superfície da mesa.</p>
+</li>
+<li><strong>Livro</strong>: Adicione um cubo fino (altura baixa) para simular um livro. Posicione-o próximo ao centro da mesa e incline-o levemente.</li>
+<li><strong>Copo</strong>: Adicione um cilindro alto e fino ao lado do livro, simulando um copo ou caneca.</li>
+<li><strong>Lápis</strong>: Crie um cilindro fino e comprido para simular um lápis, posicionado diagonalmente sobre o livro.</li>
+<li>
+<p><strong>Criando o Abajur</strong>:</p>
+</li>
+<li>
+<p><strong>Base</strong>: Adicione um cilindro pequeno e baixo no final da mesa para representar a base do abajur.</p>
+</li>
+<li><strong>Cúpula</strong>: Adicione uma esfera cortada pela metade (ou um cilindro com topo arredondado) acima da base para simular a cúpula do abajur.</li>
+<li><strong>Lâmpada</strong>: Coloque uma <strong>luz do tipo Point</strong> dentro da cúpula do abajur. Ajuste a intensidade da luz para que ilumine suavemente os objetos ao redor, simulando o efeito de uma lâmpada noturna.</li>
+<li>
+<p><strong>Componentes de Iluminação</strong>:</p>
+</li>
+<li>
+<p><strong>Luz Difusa</strong>: Ajuste a <strong>luz do tipo Point</strong> dentro do abajur com um valor de intensidade difusa médio, para iluminar suavemente a área em volta.</p>
+</li>
+<li><strong>Reflexão Especular</strong>: Aumente o valor especular na superfície da mesa e no copo para que eles reflitam levemente a luz do abajur.</li>
+<li><strong>Luz Ambiente</strong>: Configure uma luz ambiente muito baixa, com um tom azulado escuro, para simular a iluminação do ambiente noturno.</li>
+<li><strong>Sombras</strong>: Ative as sombras na luz do abajur para criar um contraste realista, com sombras mais intensas dos objetos que estão na mesa.</li>
+<li>
+<p><strong>Materiais e Reflexões</strong>:</p>
+</li>
+<li>
+<p><strong>Mesa</strong>: Use um material levemente refletivo para o plano da mesa (como madeira escura) com reflexões difusas altas e uma leve reflexão especular.</p>
+</li>
+<li><strong>Livro</strong>: Aplique um material fosco com uma cor neutra e um tom levemente desgastado (amarelo ou bege claro).</li>
+<li><strong>Copo</strong>: Dê ao copo uma reflexão especular mais forte, com uma leve transparência (como vidro fosco).</li>
+<li><strong>Lápis</strong>: Use uma cor sólida como vermelho ou azul, com baixa reflexão especular.</li>
+<li>
+<p><strong>Configurações de Renderização</strong>:</p>
+</li>
+<li>
+<p>Posicione a câmera de um ângulo levemente acima da mesa, focando no livro e no abajur.</p>
+</li>
+<li>Ative o sombreamento suave nos objetos para evitar bordas marcadas.</li>
+<li>Aumente a qualidade de amostragem para capturar detalhes de luzes e reflexões.</li>
+</ol>
+<h4 id="objetivo-final"><strong>Objetivo Final</strong></h4>
+<ul>
+<li><strong>Análise dos Resultados</strong>:</li>
+<li>Observe como a <strong>luz difusa</strong> do abajur ilumina os objetos ao redor, criando uma atmosfera de leitura noturna.</li>
+<li>A <strong>luz especular</strong> no copo e na mesa realça o realismo ao refletir a iluminação da lâmpada.</li>
+<li>A <strong>luz ambiente</strong> em tom azulado ajuda a dar profundidade ao cenário e cria o efeito de uma noite tranquila.</li>
+</ul>
+<h4 id="desafio-avancado"><strong>Desafio Avançado</strong></h4>
+<p>Experimente ajustar a intensidade da luz do abajur para observar como ela afeta o ambiente geral e como os componentes do modelo de iluminação (especular, difusa, ambiente) contribuem para o realismo na cena.</p>
+<h2 id="animacao">Animação</h2>
+<p>Texto complementar a ser inserido...</p></div>
         
         
     </div>
