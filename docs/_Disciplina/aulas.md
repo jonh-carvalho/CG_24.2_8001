@@ -11,5 +11,5 @@
 6. Aula 06 - 02/10/2024 | [Imagens](../_Disciplina/docs/Imagens.pdf), [Dispositivos e Espaço de Cores](../_Disciplina/docs/ImagensCG.pdf) e [Visão Humana](../_Disciplina/docs/ImagensM.pdf) |
 7. Aula 07 - 16/10/2024 | [Transformações Geométricas](../_Disciplina/docs/AulaTG2d3d.pdf) |
 8. Aula 08 - 30/10/2024 | [Modelos de Iluminação](../_Disciplina/docs/Ilumina.pdf) - Arquivos Blender na pasta _Disciplina/docs|
-9. Aula 09 - 13/11/2024 | Animação e Jogos |
+9. Aula 09 - 13/11/2024 | [Animação e Jogos](https://jonh-carvalho.github.io/CG_24.2_8001/_Disciplina/Estudo%20Dirigido/Jogos%20e%20Anima%C3%A7%C3%A3o/)  e [Texturas](../_Disciplina/docs/Texturas.pdf)|
 10. Aula 10 - 27/11/2024 | AP2 |
