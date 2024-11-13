@@ -52,8 +52,20 @@ Criar um cenário noturno em que um abajur ilumina uma mesa de estudo. O objetiv
 
 #### **Desafio Avançado**
 
-Experimente ajustar a intensidade da luz do abajur para observar como ela afeta o ambiente geral e como os componentes do modelo de iluminação (especular, difusa, ambiente) contribuem para o realismo na cena.
+Experimente aplicar uma textura que confira um efeito de metal a superficie da mesa.
 
 ## Animação
 
-Texto complementar a ser inserido...
+1\. Animação da Lâmpada Piscando
+
+Descrição: Simule a lâmpada do abajur piscando levemente, como se fosse uma lâmpada antiga, o que adiciona um pouco de suspense e dá mais realismo à cena.
+
+- Como Fazer: Use keyframes na intensidade da luz Point do abajur para variar entre valores próximos da intensidade original (por exemplo, de 100% a 80%) por alguns segundos.
+
+2\. Animação da Câmera
+
+Descrição: Um movimento de câmera suave, com um zoom gradual ou uma leve rotação em torno dos objetos, pode criar uma visão mais imersiva.
+
+- Como Fazer: Use keyframes para mover a câmera lentamente, fazendo um zoom-in ou uma leve rotação em torno da mesa.
+
+3\. Proponha uma animação de qualquer tipo a algum dos objetos na cena.
